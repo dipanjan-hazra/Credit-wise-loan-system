@@ -8,7 +8,7 @@
 <h2>Problem statement</h2>
 <hr/>
 
-<img src ="./Src-img/problem.png"/>
+<img src ="./Src-Img/problem.png"/>
 
 
 <hr/>
